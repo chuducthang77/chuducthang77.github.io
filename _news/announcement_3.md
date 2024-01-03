@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2021-01-01
+date: 2021-09-01
 inline: true
-draft: true
+related_posts: false
 ---
 
-I am joining [DS Lab](https://mfe.edu.vn/ds-lab/) to work on the drug response problem under the supervision of [Nguyen Thanh Tuan](https://nttuan8.com/)
+I will a TA for CMPUT 267: Basics of Machine Learning taught by [Martha White](http://webdocs.cs.ualberta.ca/~whitem/)
+
