@@ -4,7 +4,7 @@ title: J-A-T-T
 description: A machine learning project to build a classifier to predict whether a patient has large vessel occlusion or not
 img: 
 importance: 1
-category: academic
+category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
