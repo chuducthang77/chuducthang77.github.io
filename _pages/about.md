@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Incoming MSc student at <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>
 
 profile:
   align: right
