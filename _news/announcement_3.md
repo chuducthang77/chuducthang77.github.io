@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will a TA for CMPUT 267: Basics of Machine Learning taught by [Martha White](http://webdocs.cs.ualberta.ca/~whitem/)
+I will be a TA for CMPUT 267: Basics of Machine Learning taught by [Martha White](http://webdocs.cs.ualberta.ca/~whitem/)
 
