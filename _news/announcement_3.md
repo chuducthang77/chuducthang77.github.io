@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-01-01
 inline: true
-related_posts: false
+draft: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am joining [DS Lab](https://mfe.edu.vn/ds-lab/) to work on the drug response problem under the supervision of [Nguyen Thanh Tuan](https://nttuan8.com/)
