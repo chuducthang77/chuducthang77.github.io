@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming MSc student at <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>
+subtitle: MSc student at <a href='https://www.ualberta.ca/index.html'>University of Alberta</a>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello world! Welcome to my personal webpage.
 
-I recently graduated from University of Alberta. My primary interest is theoretical Machine Learning. Specifically, my goal is to study the mathematical limits of current machine learning algorithms and to design new ones with theoretical assurances.
+I am 1st year MSc. student University of Alberta. My primary interest is theoretical Machine Learning. Specifically, my goal is to study the mathematical limits of current machine learning algorithms and to design new ones with theoretical assurances.
 
 Moreover, I am recently interested in Online Learning and Reinforcement Learning.
 
