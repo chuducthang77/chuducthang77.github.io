@@ -167,7 +167,7 @@ toc:
 - [The principles of DL Theory by Daniel A. Roberts and Sho Yaida](https://arxiv.org/pdf/2106.10165.pdf)
 - [Theory of deep learning by Raman Arora, Sanjeev arora, Joan Bruna, Nadav Cohen, Rong Ge, Suriya Gunasekar, Chi Jin, Jason Lee, Tengyu Ma, Behnam Neyshabur, Zhao Song](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf)
 - [Deep learning: a statistical viewpoint by Peter Bartlett, Andrea Montanari, Alexander Rakhlin](https://arxiv.org/pdf/2103.09177.pdf)
-
+- [Mathematical introduction to deep learning: methods, implementations, and theory by Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger](https://arxiv.org/pdf/2310.20360.pdf)
 ## Papers
 - [Open Problems in Applied Deep Learning by Maziar Raissi](https://arxiv.org/pdf/2301.11316.pdf)
 - [A statistician teaches deep learning by G. Jogesh Babu, David Banks, Hyunsoon Cho, David Han, Hailin Sang, Shouyi Wang](https://danieltakeshi.github.io/2018/12/17/better-logging/)
