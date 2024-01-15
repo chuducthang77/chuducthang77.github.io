@@ -214,8 +214,7 @@ toc:
 - [Simons - Foundations of Data Science](https://simons.berkeley.edu/programs/foundations-data-science)
 - [Machine Learning with kernel methods](https://mva-kernel-methods.github.io/course-2021-2022/)
 - [Stanford CS364A - Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html)
-- [Columbia COMS 6998-006 - Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
-- [Columbia COMS 4995 - Randomized Algorithms](https://timroughgarden.org/f19/f19.html)
+- [Michigan EECS 598 - Theoretical foundations of ML](https://web.eecs.umich.edu/~jabernet/eecs598course/fall2015/web/)
 ## Books/Survey
 - [Pen and Paper Exercises in ML by Michael U. Gutmann](https://arxiv.org/abs/2206.13446)
 - [Patterns, Predictions, and Actions - A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/)
@@ -404,6 +403,8 @@ toc:
 - [CMU 15-213/15-513/14-513 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/index.html)
 - [Stanford CS 111 - OS](https://web.stanford.edu/class/archive/cs/cs111/cs111.1234/calendar)
 - [Harvard CS 125: Algorithms and Complexity](https://people.seas.harvard.edu/~cs125/)
+- [Columbia COMS 6998-006 - Foundations of Blockchains](https://timroughgarden.github.io/fob21/)
+- [Columbia COMS 4995 - Randomized Algorithms](https://timroughgarden.org/f19/f19.html)
 ## Books/Survey
 - [Notes on Randomized Algorithms by James Aspnes](http://cs-www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf)
 - 
