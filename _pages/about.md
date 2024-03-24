@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello world! Welcome to my personal webpage.
 
-I am 1st year MSc. student University of Alberta. My primary interest is theoretical Machine Learning. Specifically, my goal is to study the mathematical limits of current machine learning algorithms and to design new ones with theoretical assurances.
+I am 1st year MSc. student University of Alberta. I am fortunately supervised by professor [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/). I want to understand the foundation of Machine Learning and Reinforcement Learning. My goal is to study the mathematical limits of current machine learning algorithms and to design new ones with theoretical assurances.
 
-Moreover, I am recently interested in Online Learning and Reinforcement Learning.
+Moreover, I am recently interested in Online Learning and Optimization.
 
 Sipping tea or coffee and watching Netflix are my hobby. Studying more about coffee is one of my side projects for this year. Additionally, I enjoy painting and fishing.
 
