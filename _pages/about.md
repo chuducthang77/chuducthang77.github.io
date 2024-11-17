@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello world! Welcome to my personal webpage.
 
-I am 1st year M.Sc. student @ [University of Alberta](https://www.ualberta.ca/index.html). I am fortunately supervised by professor [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/). I am also a [RL Community Lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/reinforcement-learning) @ [CohereAI](https://cohere.com/)
+I am 1st year M.Sc. student @ [University of Alberta](https://www.ualberta.ca/index.html). I am fortunately supervised by professor [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and a member of [RLAI lab](http://rlai.ualberta.ca/people.html). I used to be a [RL Community Lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/reinforcement-learning) @ [CohereAI](https://cohere.com/)
 
-I am interested in understanding rigorously machine learning algorithms. Specifically, I care about the mathematical limits of current algorithms and want to design new ones with theoretical assurances. I also care about symbolic AI and reasoning.
+I am interested in understanding rigorously machine learning algorithms. Specifically, I care about the mathematical limits of current algorithms and want to design new ones with theoretical assurances. 
 
 A current list of my interests:
 - Reinforcement Learning theory
@@ -35,6 +35,6 @@ A current list of my interests:
 - (Online) Optimization
 - Symbolic AI and reasoning
 
-Sipping tea or coffee and watching Netflix are my hobby. Learning more about coffee is one of my side projects for this year. Additionally, I enjoy painting and fishing.
+Non-exhaustive list of hobbies: Brewing tea/coffee, painting and fishing.
 
-Finally, I am a huge fan of corgis, especially [Brady and Graffiti](https://www.instagram.com/bradythecorgi/).
+I am a huge fan of corgis, especially [Brady and Graffiti](https://www.instagram.com/bradythecorgi/).
