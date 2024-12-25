@@ -1,95 +1,95 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Chu Duc Thang
-    - name: Date of Birth
-      value: 7th July 2000
-    - name: Languages
-      value: English, Vietnamese
-
-- title: Education
-  type: time_table
-  contents:
-    - title: MSc
-      institution: University of Alberta, Alberta, Canada
-      year: 2024 - now
-      description:
-        - Supervised by Csaba Szepesvari
-        - Focused on bandit setting and reinforcement learning theory.
-    - title: Undergraduate
-      institution: University of Alberta, Alberta, Canada
-      year: 2019-2023
-      description:
-        - Honors in Computing Science
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: Carleton University
-      year: 2022 - now
-      description:
-        - Supervised by professor Junfeng Wen
-        - Focused on the parameterization of soft actor-critic algorithms.
-    - title: Research Assistant
-      institution: University of Alberta
-      year: 2022
-      description:
-        - Supervised by professor Martha White
-        - Focused on the kernel representation of Bayesian Linear Regression and Gaussian Process.
-
-    - title: Research Assistant
-      institution: National Economic University
-      year: 2020 - 2022
-      description:
-        - Supervised by professor Nguyen Thanh Tuan
-        - Applied graph neural network to solve drug response problem.
-
-    - title: Teaching Assistant
-      institution: University of Alberta
-      year: 2021 - now
-      description:
-        - CMPUT 267 Basics of Machine Learning taught by professor Martha White (Fall 2021, Winter 2022, Winter 2024)
-        - CMPUT 469 AI Capstone taught by professor Russ Greiner (Winter 2023)
-
-
-#- title: Open Source Projects
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Chu Duc Thang
+#    - name: Date of Birth
+#      value: 7th July 2000
+#    - name: Languages
+#      value: English, Vietnamese
+#
+#- title: Education
 #  type: time_table
 #  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2019 - 2023
-      items: 
-        - Dean's Honor Roll
-    - year: 2019 - 2023
-      items: 
-        - International Student Scholarship
-    - year: 2019
-      items:
-        -  Faculty of Science Gold Standard Scholarship
-    - year: 2019
-      items:
-        - University of Alberta Maple Leaf First Year Excellence Scholarship
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Online Learning.
-#      items:
-#        - Description 1.
-#        - Description 2.
-    - title: Reinforcement Learning.
-#      items:
-#        - Description 1.
-#        - Description 2.
-
-#- title: Other Interests
-#  type: list
+#    - title: MSc
+#      institution: University of Alberta, Alberta, Canada
+#      year: 2024 - now
+#      description:
+#        - Supervised by Csaba Szepesvari
+#        - Focused on bandit setting and reinforcement learning theory.
+#    - title: Undergraduate
+#      institution: University of Alberta, Alberta, Canada
+#      year: 2019-2023
+#      description:
+#        - Honors in Computing Science
+#
+#- title: Experience
+#  type: time_table
 #  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#    - title: Research Assistant
+#      institution: Carleton University
+#      year: 2022 - now
+#      description:
+#        - Supervised by professor Junfeng Wen
+#        - Focused on the parameterization of soft actor-critic algorithms.
+#    - title: Research Assistant
+#      institution: University of Alberta
+#      year: 2022
+#      description:
+#        - Supervised by professor Martha White
+#        - Focused on the kernel representation of Bayesian Linear Regression and Gaussian Process.
+#
+#    - title: Research Assistant
+#      institution: National Economic University
+#      year: 2020 - 2022
+#      description:
+#        - Supervised by professor Nguyen Thanh Tuan
+#        - Applied graph neural network to solve drug response problem.
+#
+#    - title: Teaching Assistant
+#      institution: University of Alberta
+#      year: 2021 - now
+#      description:
+#        - CMPUT 267 Basics of Machine Learning taught by professor Martha White (Fall 2021, Winter 2022, Winter 2024)
+#        - CMPUT 469 AI Capstone taught by professor Russ Greiner (Winter 2023)
+#
+#
+##- title: Open Source Projects
+##  type: time_table
+##  contents:
+##    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+##      year: 2015-now
+##      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+##- title: Honors and Awards
+##  type: time_table
+##  contents:
+##    - year: 2019 - 2023
+##      items:
+##        - Dean's Honor Roll
+##    - year: 2019 - 2023
+##      items:
+##        - International Student Scholarship
+##    - year: 2019
+##      items:
+##        -  Faculty of Science Gold Standard Scholarship
+##    - year: 2019
+##      items:
+##        - University of Alberta Maple Leaf First Year Excellence Scholarship
+#
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Online Learning.
+##      items:
+##        - Description 1.
+##        - Description 2.
+#    - title: Reinforcement Learning.
+##      items:
+##        - Description 1.
+##        - Description 2.
+#
+##- title: Other Interests
+##  type: list
+##  contents:
+##    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
