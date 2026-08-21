@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello world! Welcome to my personal webpage.
 
-I am 2nd year M.Sc. student @ [University of Alberta](https://www.ualberta.ca/index.html). I am fortunately supervised by professor [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and a member of [RLAI lab](http://rlai.ualberta.ca/people.html). I am a [ML theory Community lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/ml-theory), used to be a [RL Community Lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/reinforcement-learning) @ [CohereAI](https://cohere.com/)
+I am 2nd year M.Sc. student @ [University of Alberta](https://www.ualberta.ca/index.html). I am fortunately supervised by professor [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and a member of [RLAI lab](http://rlai.ualberta.ca/people.html). I am used to  a [ML theory Community lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/ml-theory), and [RL Community Lead](https://sites.google.com/cohere.com/c4ai-community/community-programs/reinforcement-learning) @ [CohereAI](https://cohere.com/)
 
 I am interested in understanding and developing algorithms rigorously. A current list of my interests:
 - RL/ML theory
